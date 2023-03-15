@@ -48,10 +48,10 @@ SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/cyber_Movie_S')
 MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
 
 # Custom Chats
-SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', -1001797596826))
-FILE_CHANNEL = int(environ.get('FILE_CHANNEL', -1001810806290))
-FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 't.me/cynitebackup')
-HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/cynitemovies/3')
+SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', -1001870999497))
+FILE_CHANNEL = int(environ.get('FILE_CHANNEL', -1001891742262))
+FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 'https://t.me/Anime_Pirates')
+HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/Hentai_Providerss')
 
 # Log Channels
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', -1001321271473))
